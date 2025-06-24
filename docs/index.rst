@@ -1,5 +1,5 @@
-How Do I Sign in Peacock TV: A Step-by-Step Guide      //index.rst
-
+How Do I Sign in Peacock TV: A Step-by-Step Guide 
+====================================================================
 
 .. toctree::
    :maxdepth: 2
